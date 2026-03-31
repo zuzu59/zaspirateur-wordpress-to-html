@@ -1,4 +1,11 @@
 www/
+comparison_screenshots/
+final_verification/
+
+*.zip
+*.tar.gz
+
+
 
 
 
